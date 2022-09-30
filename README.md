@@ -11,3 +11,5 @@ Create a New Environment
 '''
 conda create -p venv python==3.7 -y
 '''
+
+# Not much focus towards the HTML/CSS layout, but on deploying the End2End ML application on Heroku to predict the House Prices. 
